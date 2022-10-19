@@ -1,0 +1,11 @@
+import java.util.*;
+
+
+public class PlantedBy {
+    String seed;
+    public void main(String[] args) {
+        System.out.println("Enter a name you like!");
+        Scanner keyboard = new Scanner( System.in );
+                seed = keyboard.nextLine();
+    }
+}
